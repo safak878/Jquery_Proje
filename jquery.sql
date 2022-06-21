@@ -13,7 +13,7 @@ CREATE TABLE `bilgi` (
 INSERT INTO `bilgi` (`bilgi_id`, `bilgi_ad`, `bilgi_soyad`) VALUES
 (260, 'Şafak', 'Küsmez'),
 (265, 'Ahmet', 'Keleş'),
-(266, 'Udemy', 'Kursu');
+(266, 'Ahmet', 'Sezer');
 
 
 
